@@ -1,3 +1,7 @@
+# IMPORTANT 
+Create a .env file with the following Syntax:
+GOOGLE_API_KEY="< insert your api key here>"
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
